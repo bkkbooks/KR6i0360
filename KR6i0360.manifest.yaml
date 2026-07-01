@@ -1,0 +1,175 @@
+canonical_identifier: bkk:krp/KR6i0360/v1
+canonical_location: https://kanripo.org/bkk/KR6i0360/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大乘密嚴經
+  identifiers:
+    alt_id:
+    - T16n0682
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0682.xml
+    old_id: T16n0682
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit4
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 北藏-CB
+  label: 北藏-CB
+  source_xml_id: wit6
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0360_000.yaml, hash: 'sha256:033c494735a38299461f463c0da8de23e2394e08693371a5cf098a69ec980e05'}
+  - {seq: 1, filename: KR6i0360_001.yaml, hash: 'sha256:564d4a3a4c1db84452292b49e4ebe36c998cf9780cf8aa7f59fae12598c80b76'}
+  - {seq: 2, filename: KR6i0360_002.yaml, hash: 'sha256:eb947deef7e2377f959e71b88d5374ab8d84eaa1a4a121f4822999c7fed58227'}
+  - {seq: 3, filename: KR6i0360_003.yaml, hash: 'sha256:963c33b481ffe4deb617d72bc2ef9211a41166fcf636d55a621b9270c66e32cb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0360_000.markers.yaml, hash: 'sha256:86351351855c5aee601424f2cc9ced09702ddff941e06ae5119fdaeefa6f11b0'}
+  - {seq: 1, role: markers, filename: assets/KR6i0360_001.markers.yaml, hash: 'sha256:2d8139de24ad84829712f6207779475ede7045ae19c62be32e5cd25a6f9dd2ee'}
+  - {seq: 2, role: markers, filename: assets/KR6i0360_002.markers.yaml, hash: 'sha256:48d885db0aaacd16889020f4e879d107468258ddb8d8e2a037ff306a33d818ae'}
+  - {seq: 3, role: markers, filename: assets/KR6i0360_003.markers.yaml, hash: 'sha256:d1c85e745e67cb9e3b92466ebf2e8fea3f5d7bc2e44f09675e80c628bae9cf79'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0360_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 大唐新翻密嚴經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0360_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7915
+  label: 大乘密嚴經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0360_T_001-mulu-1
+    span:
+    - body
+    - 46
+    - 46
+  label: 1 密嚴道場品(上)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0360_T_001-mulu-2
+    span:
+    - body
+    - 3633
+    - 3633
+  label: 2 入密嚴微妙身生品(上-中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0360_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9053
+  label: 大乘密嚴經卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0360_T_002-mulu-1
+    span:
+    - body
+    - 3166
+    - 3166
+  label: 3 胎藏生品(中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0360_T_002-mulu-2
+    span:
+    - body
+    - 3587
+    - 3587
+  label: 4 自作境界品(中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0360_T_002-mulu-3
+    span:
+    - body
+    - 6019
+    - 6019
+  label: 5 辯觀行品(中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0360_T_002-mulu-4
+    span:
+    - body
+    - 6970
+    - 6970
+  label: 6 趣入阿賴耶品(中)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0360_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9015
+  label: 大乘密嚴經卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0360_T_003-mulu-1
+    span:
+    - body
+    - 46
+    - 46
+  label: 7 我識境界品(下)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0360_T_003-mulu-2
+    span:
+    - body
+    - 572
+    - 572
+  label: 8 阿賴耶即密嚴品(下)
+  type: mulu
+  level: 1
+hash: sha256:857856b72133049acbd48a6b92412cce802dbb212df5f5dd88d6a2edacbb6b4d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
