@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0360/v1
 canonical_location: https://kanripo.org/bkk/KR6i0360/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大乘密嚴經
   identifiers:
@@ -39,15 +39,15 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0360_000.yaml, hash: 'sha256:ed0cb82959c09245b2169d2d22f2a9730f6d688902bc84284962ff17ee2e24d8'}
-  - {seq: 1, filename: KR6i0360_001.yaml, hash: 'sha256:daf55248a15a649ba45804049264cb18b93a85ab43463c4cd74181c63375fbfa'}
-  - {seq: 2, filename: KR6i0360_002.yaml, hash: 'sha256:0e4a87141b866735404d2cd2e5e3769ce680c34ae55e7ec646a5dff12fc8038e'}
-  - {seq: 3, filename: KR6i0360_003.yaml, hash: 'sha256:36a4b4f127bad43ccbe65e9158138e6f924a55592567ec29ab997679b84ca09e'}
+  - {seq: 0, filename: KR6i0360_000.yaml, hash: 'sha256:033c494735a38299461f463c0da8de23e2394e08693371a5cf098a69ec980e05'}
+  - {seq: 1, filename: KR6i0360_001.yaml, hash: 'sha256:00fe2d03ce1597cb70e07738c478eb2b27e3a39f6b83f12303aba2dcf56fda33'}
+  - {seq: 2, filename: KR6i0360_002.yaml, hash: 'sha256:2d5636604e53a763074f5f88798bb8bdac538e0b03e73044576460b3e45f1f31'}
+  - {seq: 3, filename: KR6i0360_003.yaml, hash: 'sha256:40070324a2c962ea9edb6e61faa7f9ea6ea896eb4894b132d94191adec095538'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0360_000.markers.yaml, hash: 'sha256:0bcc49d219ab7d268c15c02f4b175eb4ecbca8aa9320766dd87326be1f80c156'}
-  - {seq: 1, role: markers, filename: assets/KR6i0360_001.markers.yaml, hash: 'sha256:1faa3c8cd2d50f62fe3a8f31bb069b7311e58ea8968847693d80f7f29a24ef11'}
-  - {seq: 2, role: markers, filename: assets/KR6i0360_002.markers.yaml, hash: 'sha256:6106d8bb250065a41e06799d4eec432363667b6f9273e6f73f65588714f9f2e3'}
-  - {seq: 3, role: markers, filename: assets/KR6i0360_003.markers.yaml, hash: 'sha256:be21422cc098a4ed4e98f0d037a80cfdb195af5514aa7392101b7673f14be87b'}
+  - {seq: 0, role: markers, filename: assets/KR6i0360_000.markers.yaml, hash: 'sha256:77061ae2175c1a3264ea4c99d64915b3a3f45acb49105ea4cf624b443226456b'}
+  - {seq: 1, role: markers, filename: assets/KR6i0360_001.markers.yaml, hash: 'sha256:0476a242b12b9295dccb32c737c87aa5c5b0e2160ba20e82b3b31ad046c37c1a'}
+  - {seq: 2, role: markers, filename: assets/KR6i0360_002.markers.yaml, hash: 'sha256:c43d54bc75905e208995487ce4450e249c9286af4ad4486f51e1a5b2c742ae6a'}
+  - {seq: 3, role: markers, filename: assets/KR6i0360_003.markers.yaml, hash: 'sha256:13c5a52a03eab0efdbd1b63b876e905bc7561774bb0bbb329cbbbda2e96a622d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -169,4 +169,7 @@ table_of_contents:
   label: 8 阿賴耶即密嚴品(下)
   type: mulu
   level: 1
-hash: sha256:427f19632b58b59297f14ab291ad7cd28aabd634781a53d2662deed61e1d7d35
+hash: sha256:cbfb0450743353ed1dbfb073628113b561e8622bf26faca21b48aaa1baca609a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
