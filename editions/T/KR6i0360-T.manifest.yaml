@@ -19,12 +19,12 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0360_000-T.yaml, hash: 'sha256:ed0cb82959c09245b2169d2d22f2a9730f6d688902bc84284962ff17ee2e24d8'}
+  - {seq: 0, filename: KR6i0360_000-T.yaml, hash: 'sha256:e87641030e1cea122e7168f841c8a4b647f12851d100f6b06d88af953bf51fd1'}
   - {seq: 1, filename: KR6i0360_001-T.yaml, hash: 'sha256:daf55248a15a649ba45804049264cb18b93a85ab43463c4cd74181c63375fbfa'}
   - {seq: 2, filename: KR6i0360_002-T.yaml, hash: 'sha256:0e4a87141b866735404d2cd2e5e3769ce680c34ae55e7ec646a5dff12fc8038e'}
   - {seq: 3, filename: KR6i0360_003-T.yaml, hash: 'sha256:36a4b4f127bad43ccbe65e9158138e6f924a55592567ec29ab997679b84ca09e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0360_000-T.markers.yaml, hash: 'sha256:c01a0dd541b6ad55166cf02b53f6bda8775dfc10272deb64918191a0d97de365'}
+  - {seq: 0, role: markers, filename: assets/KR6i0360_000-T.markers.yaml, hash: 'sha256:543db462d3ae14a508440f89c7a64d13fea6212dddadfc045fbeaa1e54c0bd00'}
   - {seq: 1, role: markers, filename: assets/KR6i0360_001-T.markers.yaml, hash: 'sha256:df3d38fa38552fd1c77a322087a3802da5bc933d970824a3426c48c853e9f5f3'}
   - {seq: 2, role: markers, filename: assets/KR6i0360_002-T.markers.yaml, hash: 'sha256:05ae28000cd5cfd16ac2fe11d6190d87bb610f397afe32e14f7c855c88fa657b'}
   - {seq: 3, role: markers, filename: assets/KR6i0360_003-T.markers.yaml, hash: 'sha256:6430e0aa24a63f3505beea4187e375e00c61da0c2c50a223fe11d668a30176c0'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0360_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 大唐新翻密嚴經序
@@ -149,4 +149,4 @@ table_of_contents:
   label: 8 阿賴耶即密嚴品(下)
   type: mulu
   level: 1
-hash: sha256:f59be0a2147408fd7e89e7025b8cc4016813b6345a0edaa398f0f2434a2328fa
+hash: sha256:d5f3a91902332cd31075e3b0f26acad59b8c492d927e965468bbd17d9c31985c
